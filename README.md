@@ -5,16 +5,14 @@ NARs
 
 #### NARs
 
-https://mvnrepository.com/artifact/org.geomesa.nifi/geomesa-datastore-services-nar
-
-https://mvnrepository.com/artifact/org.geomesa.nifi/geomesa-datastore-services-api-nar
-
-https://mvnrepository.com/artifact/org.apache.nifi/nifi-media-nar/1.22.0
 
 
 |Name|Link|Usage|
 |---|---|---|
 |Geomesa|https://mvnrepository.com/artifact/org.geomesa.nifi/geomesa-datastore-services-nar|Geo services|
+|Box|https://mvnrepository.com/artifact/org.apache.nifi/nifi-box-services-api-nar|Docs|
+|Tika/Docs|https://mvnrepository.com/artifact/org.apache.nifi/nifi-media-nar/1.22.0|Doc Parsing/PDF|
+
 
 
 
