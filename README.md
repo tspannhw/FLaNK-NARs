@@ -13,6 +13,8 @@ NARs
 |Box|https://mvnrepository.com/artifact/org.apache.nifi/nifi-box-services-api-nar|Docs|
 |Tika/Docs|https://mvnrepository.com/artifact/org.apache.nifi/nifi-media-nar/1.22.0|Doc Parsing/PDF|
 |ASANA|https://mvnrepository.com/artifact/org.apache.nifi/nifi-asana-services-api-nar|Asana|
+|Iceberg|https://mvnrepository.com/artifact/org.apache.nifi/nifi-iceberg-services-api-nar/1.22.0|iceberg|
+
 
 
 
